@@ -8,5 +8,5 @@ Este proyecto implementa autoencoders para denoising (eliminación de ruido) con
 Datasets
 Los datasets utilizados en este proyecto son:
 
-DermaMNIST: Un conjunto de imágenes dermatológicas que incluye categorías comunes de enfermedades de la piel.
-PneumoniaMNIST: Imágenes de radiografías de pecho utilizadas para la detección de neumonía.
+* DermaMNIST: Un conjunto de imágenes dermatológicas que incluye categorías comunes de enfermedades de la piel.
+* PneumoniaMNIST: Imágenes de radiografías de pecho utilizadas para la detección de neumonía.
